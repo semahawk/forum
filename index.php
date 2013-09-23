@@ -1,9 +1,9 @@
 <?php
 
-if(isset($_GET['egg']) == false){
+if (!isset($_GET['egg'])){
+	echo "forum says gtfo!";
+} else {
 	echo "forum says hi";
-}else{
-	echo "forum says gtfo!"
 }
 
 ?>
