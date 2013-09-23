@@ -6,4 +6,6 @@ if (!isset($_GET['egg'])){
 	echo "forum says hi";
 }
 
+echo " hehehehehehehe";
+
 ?>
